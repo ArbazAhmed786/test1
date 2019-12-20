@@ -1,5 +1,9 @@
 //PROGRAM 6
-
+/*[MULTILEVEL] Develop a Java Program to create a class EMPLOYEE with data 
+member: empno,name. Derive two classes REGULAR with data member regular_pay and 
+another class OVERTIME from class REGULAR with data member: addn_pay. Include a method in OVERTIME that calculate the total pay by adding the above two. Create n 
+OVERTIME objects. Display the details of employees who have earned more in overtime 
+than the regular pay.  */
 import java.util.*;
 class employee
 {
